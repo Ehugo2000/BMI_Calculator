@@ -8,8 +8,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 4em;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
    
    
 }
@@ -36,7 +36,7 @@ input {
     color: silver;
     font-size: medium;
     font-weight: bold;
-    padding: 12px;
+    padding: 10px;
     margin-right: 10px;
 }
 
