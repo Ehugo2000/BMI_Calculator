@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4em;
+    margin-left: 10%;
+    margin-right: 10%;
+   
+   
+}
+
+.main {
+    padding: 10px;
+    
+}
+
+input {
+    padding: 8px;
+    margin: 6px;
+    box-sizing: border-box;
+    font-size: large;
+    
+}
+
+
+
+#Calculate {
+    border-radius: 3px;
+    border: none;
+    background-color: black;
+    color: silver;
+    font-size: medium;
+    font-weight: bold;
+    padding: 12px;
+    margin-right: 10px;
+}
+
+#results{
+    text-align: center;
+    font-size: x-small;
+}
